@@ -2,8 +2,11 @@
 For normal Best Practice Test
 
 Validations
+
 ● Variables
+
 ->Names should start with a lowercase letter (camelCase)
+
 ->Names should not contain accents
 
 ● Arguments
